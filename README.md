@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Aursalan Sayed!
 
 🎓 I'm a final-year **Artificial Intelligence & Data Science** student, passionate about AI integration into real-world software products, cloud computing, and building impactful technology solutions.
 
