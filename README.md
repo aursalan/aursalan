@@ -21,9 +21,8 @@
 - Cloud (GCP basics)
 
 📫 How to reach me:
-- Email: [your.email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- Portfolio: [your-portfolio-link] (optional)
+- ![Email](aursalansayed@gmail.com)
+- ![LinkedIn](www.linkedin.com/in/aursalan)
 
 ⚡ Fun fact:
 > I believe that AI + Empathy = Future of Technology 🚀
@@ -50,4 +49,4 @@
 
 ---
 
-⭐️ From [Aursalan Sayed]
+⭐️ From Aursalan Sayed
