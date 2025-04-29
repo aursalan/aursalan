@@ -20,10 +20,6 @@
 - Web Development (React, Node.js, MongoDB)
 - Cloud (GCP basics)
 
-📫 How to reach me:
-- ![Email](aursalansayed@gmail.com)
-- ![LinkedIn](www.linkedin.com/in/aursalan)
-
 ⚡ Fun fact:
 > I believe that AI + Empathy = Future of Technology 🚀
 
