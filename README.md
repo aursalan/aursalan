@@ -1,4 +1,4 @@
-# Hi there, I'm Arsalan 👋
+# Hi there 👋
 
 🎓 **AI & Data Science Graduate**  
 I recently completed my undergraduate degree specializing in Artificial Intelligence and Data Science. I’m passionate about leveraging technology to solve real-world problems and build impactful solutions.
