@@ -34,24 +34,6 @@ Currently seeking opportunities in **SDE, SWE, AI Engineer, and Java Developer**
 ## ⚡ GitHub Statistics  
 
 <div align="center">
-
-### 📌 Profile Overview
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aursalan&theme=github_dark&background=000000&title_color=39FF14&text_color=00FF00" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aursalan&theme=default" width="100%" alt="Profile Summary"/>
-</picture>
-
----
-
-### 🏆 Achievements
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=aursalan&theme=matrix&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aursalan&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies"/>
-</picture>
-
----
-
-### 📊 Key Metrics
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aursalan&theme=dark&background=000000&ring=39FF14&fire=00FF00&currStreakLabel=00FF00&sideLabels=39FF14&dates=00FF00" />
@@ -63,21 +45,5 @@ Currently seeking opportunities in **SDE, SWE, AI Engineer, and Java Developer**
     <img src="https://github-readme-stats.vercel.app/api?username=aursalan&show_icons=true&theme=default&rank_icon=github" height="165" alt="GitHub Stats"/>
   </picture>
 </p>
-
----
-
-### 🖥️ Languages
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aursalan&layout=compact&langs_count=8&bg_color=000000&title_color=39FF14&text_color=00FF00&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aursalan&layout=compact&langs_count=8&theme=default" height="165" alt="Top Languages"/>
-</picture>
-
----
-
-### 📈 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aursalan&bg_color=000000&color=00FF00&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aursalan&theme=github-light" width="100%" alt="Contribution Graph"/>
-</picture>
 
 </div>
