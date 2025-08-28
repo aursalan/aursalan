@@ -15,7 +15,7 @@ xczxczxc
   <!-- Row 1: Nirzak Streak full width -->
   <tr>
     <td colspan="2" align="center"> 
-      <img src="https://nirzak-streak-stats.vercel.app/?user=aursalan&theme=transparent&hide_border=true" 
+      <img src="https://nirzak-streak-stats.vercel.app/?user=aursalan&theme=transparent&hide_border=true&ring=ff5733&fire=ff5733&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=000000&currStreakNum=000000" 
            alt="GitHub Streak" width="80%"/>
     </td>
   </tr>
@@ -23,15 +23,14 @@ xczxczxc
   <!-- Row 2: GitHub Stats + Top Languages -->
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=aursalan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" 
-           alt="GitHub Stats" width="85%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=aursalan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=000000&text_color=000000&icon_color=ff5733" 
+           alt="GitHub Stats" width="150%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aursalan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aursalan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=000000&text_color=000000" 
            alt="Top Languages" width="85%"/>
     </td>
   </tr>
 </table>
 
 </div>
-
