@@ -4,7 +4,7 @@
     <tr style="border: none;">
     <td align="center" style="border: none;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=aursalan&theme=transparent&hide_border=true&ring=ff5733&fire=ff5733&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=000000&currStreakNum=000000" 
-           alt="GitHub Streak" width="85%" height="280"/>
+           alt="GitHub Streak" width="95%" height="280"/>
     </td>
   </tr>
   
