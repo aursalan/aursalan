@@ -5,9 +5,24 @@ I'm a recent B.E. graduate in Artificial Intelligence & Data Science passionate 
 Currently, I’m working on projects in MERN stack, Java, and AI/ML, while actively preparing for SDE/AI Engineer roles.
 
 <p align="left"> 
-<a href="https://www.linkedin.com/in/aursalan"> <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://leetcode.com/u/aursalan/"> <img alt="LeetCode" title="Check my LeetCode" src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/aursalan">
+  <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> 
+<a href="https://leetcode.com/u/aursalan/">
+  <img alt="LeetCode" title="Check my LeetCode" src="https://img.shields.io/badge/-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a> 
+<a href="https://www.reddit.com/user/aursalan">
+  <img alt="Reddit" title="Join me on Reddit" src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a> 
+<a href="https://www.kaggle.com/aursalan">
+  <img alt="Kaggle" title="Explore my Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a> 
+<a href="https://huggingface.co/aursalan">
+  <img alt="Hugging Face" title="Check my Hugging Face models" src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a> 
 </p>
+
+
 
 ---
 
@@ -27,12 +42,6 @@ Currently, I’m working on projects in MERN stack, Java, and AI/ML, while activ
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 
 <br />
-
-#
-
-### 📊 Stats
-
-<div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=aursalan&theme=transparent&hide_border=true&ring=ff5733&fire=ff5733&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=000000&currStreakNum=000000" width="95%" height="250" /> <img src="https://github-readme-stats.vercel.app/api?username=aursalan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=000000&text_color=000000&icon_color=ff5733&hide_title=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aursalan&theme=transparent&hide_border=true&layout=compact&title_color=000000&text_color=000000" /> </div>
 
 #
 
