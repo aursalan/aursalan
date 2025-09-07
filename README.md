@@ -1,25 +1,21 @@
 # Welcome to my collection of bugs, features, and `// TODO: fix this later.`
+<p align="left">
+  <a href="https://leetcode.com/u/aursalan/"><img alt="LeetCode" title="Check my LeetCode" src="https://img.shields.io/badge/-LeetCode-F89F1B?style=plastic&logo=leetcode&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.kaggle.com/aursalan"><img alt="Kaggle" title="Explore my Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://huggingface.co/aursalan"><img alt="Hugging Face" title="Check my Hugging Face models" src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=black"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aursalan"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.reddit.com/user/aursalan"><img alt="Reddit" title="Join me on Reddit" src="https://img.shields.io/badge/-Reddit-FF4500?style=plastic&logo=reddit&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img alt="Discord" title="My Discord ID: aursalan" src="https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=discord&logoColor=white"/></a>
+</p>
 
 > I'm a recent B.E. graduate in Artificial Intelligence & Data Science, passionate about building intelligent systems and scalable applications. From Java and full-stack web apps to AI-driven platforms, I love solving real-world problems through clean code and thoughtful design.
 > > Currently, I’m working on projects in **AI/ML**, the **MERN** stack, and **Java**, while actively preparing for AI/SDE Engineer roles.
 
-## My playgrounds
-<p align="left">
-  <a href="https://leetcode.com/u/aursalan/"><img alt="LeetCode" title="Check my LeetCode" src="https://img.shields.io/badge/-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.kaggle.com/aursalan"><img alt="Kaggle" title="Explore my Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://huggingface.co/aursalan"><img alt="Hugging Face" title="Check my Hugging Face models" src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-</p>
-
-## Social media accounts
-<p align="left">
-  <a href="https://www.linkedin.com/in/aursalan"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.reddit.com/user/aursalan"><img alt="Reddit" title="Join me on Reddit" src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  &nbsp;
-  <a href="#"><img alt="Discord" title="My Discord ID: aursalan" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
 
 ## 🧰 Languages and Tools
 
