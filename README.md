@@ -10,7 +10,7 @@
   &nbsp;
   <a href="https://www.reddit.com/user/aursalan"><img alt="Reddit" title="Join me on Reddit" src="https://img.shields.io/badge/-Reddit-FF4500?style=plastic&logo=reddit&logoColor=white"/></a>
   &nbsp;
-  <a href="#"><img alt="Discord" title="My Discord ID: aursalan" src="https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=discord&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/1403433427226853466"><img alt="Discord" title="My Discord ID: aursalan" src="https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=discord&logoColor=white"/></a>
 </p>
 
 I'm fascinated by how technology can understand and simplify our lives. This interest took me from a background in software development to a deep dive into AI and Machine Learning. For me, it's not just about writing code; it's about creating systems that feel natural, whether it's an AI giving career advice or a smart home that reacts to your voice. I enjoy the process of transforming a complex technical problem into a simple, elegant solution that makes a real difference.
