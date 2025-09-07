@@ -13,22 +13,34 @@
   <a href="#"><img alt="Discord" title="My Discord ID: aursalan" src="https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=discord&logoColor=white"/></a>
 </p>
 
-```
-A recent AI & Data Science graduate focused on the intersection of intelligent design and scalable engineering.
-Who I Am: A problem-solver dedicated to building impactful applications with clean, efficient code.
-My Technical Playground:
-Backend & Enterprise: Java
-Full-Stack Web Apps: MERN Stack
-Intelligent Systems: AI/ML
-```
+>[!NOTE]
+>I'm actively sharpening my expertise in DSA, full-stack development, and AI engineering to build innovative products and land a challenging AI/SDE Engineer role.
+
+
+<table>
+  <tr>
+    <td>
+      <p>
+        A recent AI & Data Science graduate focused on the intersection of intelligent design and scalable engineering.
+      </p>
+      <ul>
+        <li><b>Who I Am:</b> A problem-solver dedicated to building impactful applications with clean, efficient code.</li>
+        <li><b>My Technical Playground:</b>
+          <ul>
+            <li>Backend & Enterprise: <b>Java</b></li>
+            <li>Full-Stack Web Apps: <b>MERN Stack</b></li>
+            <li>Intelligent Systems: <b>AI/ML</b></li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <details>
   <summary>📖 The Story So Far</summary>
   My path into tech began with a Diploma in Computer Engineering, where I built a solid foundation in Java, OOP, and DSA. Hungry to tackle bigger challenges, I pursued a B.E. in AI & Data Science, which became my launchpad for exploring machine learning, deep learning, and building impactful projects like Room Loop and MyCareer.ai. To bridge the gap between theory and practice, I gained hands-on experience through internships at Edunet Foundation, vCloudXperts, and Bolt IoT, solidifying my skills across the AI, cloud, and web development landscapes.
 </details>
-
-
-> [!NOTE]
-> I'm actively sharpening my expertise in DSA, full-stack development, and AI engineering to build innovative products and land a challenging AI/SDE Engineer role.
 
 ## 🧰 Languages and Tools
 
