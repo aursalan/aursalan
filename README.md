@@ -13,9 +13,22 @@
   <a href="#"><img alt="Discord" title="My Discord ID: aursalan" src="https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=discord&logoColor=white"/></a>
 </p>
 
-> I'm a recent B.E. graduate in Artificial Intelligence & Data Science, passionate about building intelligent systems and scalable applications. From Java and full-stack web apps to AI-driven platforms, I love solving real-world problems through clean code and thoughtful design.
-> > Currently, I’m working on projects in **AI/ML**, the **MERN** stack, and **Java**, while actively preparing for AI/SDE Engineer roles.
+```
+A recent AI & Data Science graduate focused on the intersection of intelligent design and scalable engineering.
+Who I Am: A problem-solver dedicated to building impactful applications with clean, efficient code.
+My Technical Playground:
+Backend & Enterprise: Java
+Full-Stack Web Apps: MERN Stack
+Intelligent Systems: AI/ML
+```
+<details>
+  <summary>📖 The Story So Far</summary>
+  My path into tech began with a Diploma in Computer Engineering, where I built a solid foundation in Java, OOP, and DSA. Hungry to tackle bigger challenges, I pursued a B.E. in AI & Data Science, which became my launchpad for exploring machine learning, deep learning, and building impactful projects like Room Loop and MyCareer.ai. To bridge the gap between theory and practice, I gained hands-on experience through internships at Edunet Foundation, vCloudXperts, and Bolt IoT, solidifying my skills across the AI, cloud, and web development landscapes.
+</details>
 
+
+> [!NOTE]
+> I'm actively sharpening my expertise in DSA, full-stack development, and AI engineering to build innovative products and land a challenging AI/SDE Engineer role.
 
 ## 🧰 Languages and Tools
 
@@ -35,11 +48,3 @@
 <br />
 
 #
-
-<details> <summary><h3>📖 My Journey</h3></summary> I started my journey with a Diploma in Computer Engineering, diving into Java, OOP, and DSA. Later, during my B.E. in AI & Data Science, I explored machine learning, deep learning, and cloud computing while building impactful projects like Room Loop and MyCareer.ai.
-
-Alongside academics, I gained hands-on experience through internships at Edunet Foundation, vCloudXperts, and Bolt IoT, where I worked across AI/ML, cloud platforms, and web development.
-
-Today, I’m focused on sharpening my DSA, full-stack, and AI engineering skills to build innovative products and land an SDE/AI Engineer role.
-
-</details>
