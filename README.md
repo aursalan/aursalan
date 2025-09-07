@@ -16,18 +16,16 @@
 >[!NOTE]
 >I'm actively looking for an AI/SDE Engineer role.
 
-I recently graduated with a Bachelor of Engineering in Artificial Intelligence and Data Science. I am passionate about using machine learning and natural language processing to create intelligent and impactful solutions. I have a strong background in software engineering and AI concepts. I focus on developing complete applications that connect complex data with easy-to-use experiences.
-
-My project experience includes designing and building an AI-based career counselling system using the MERN stack and Python. I used NLP and rule-based logic to provide highly accurate career recommendations. Additionally, I created a natural language-controlled smart home server, which significantly reduced the time users spent interacting with the system.
-
-I am skilled in Python, Java, machine learning, and SQL. I am eager to apply my technical skills and problem-solving abilities as an AI Engineer. I want to help build the next generation of intelligent systems.
+I'm fascinated by how technology can understand and simplify our lives. This interest took me from a background in software development to a deep dive into AI and Machine Learning. For me, it's not just about writing code; it's about creating systems that feel natural, whether it's an AI giving career advice or a smart home that reacts to your voice. I enjoy the process of transforming a complex technical problem into a simple, elegant solution that makes a real difference.
 
 
 <details>
-  <summary>📖 The Story So Far</summary>
-  My journey into technology started with a strong foundation in software principles through a Diploma in Computer Engineering. I developed my skills in Java, Data Structures, and Object-Oriented Programming. This sparked my interest in creating strong applications and drove me to pursue a Bachelor's degree in Artificial Intelligence and Data Science.
-This focus allowed me to explore machine learning, deep learning, and cloud computing in depth. To enhance my academic experience, I looked for hands-on opportunities through various internships. I began with web development and cloud infrastructure, which helped me understand the entire technology stack. My key experience was an AI internship at the Edunet Foundation, where I transitioned from theory to practice. There, I implemented ML models, worked with NLP techniques, and developed deep learning frameworks.
-My passion for AI shines through in my projects. While I've built full-stack applications like "Room Loop" to improve my software engineering skills, my main focus has been on creating intelligent systems. I developed "mycareer.ai," an AI-driven career counselling platform that uses NLP for personalised recommendations. Additionally, I made "Puch home," which allows smart home control using natural language commands. These projects illustrate my main interest: building practical, complete AI solutions that address real-world challenges. I am now excited to apply my blend of software engineering skills and specialised AI knowledge in a challenging role as an AI Engineer.
+  <summary>📖 The Story So Far</summary><br>
+  <ul>
+    <li>My journey into technology started with a strong foundation in software principles through a Diploma in Computer Engineering. I developed my skills in Java, Data Structures, and Object-Oriented Programming.         This sparked my interest in creating strong applications and drove me to pursue a Bachelor's degree in Artificial Intelligence and Data Science.</li><br>
+    <li>This focus allowed me to explore machine learning, deep learning, and cloud computing in depth. To enhance my academic experience, I looked for hands-on opportunities through various internships. I began with web development and cloud infrastructure, which helped me understand the entire technology stack. My key experience was an AI internship at the Edunet Foundation, where I transitioned from theory to practice. There, I implemented ML models, worked with NLP techniques, and developed deep learning frameworks.</li><br>
+    <li>My passion for AI shines through in my projects. While I've built full-stack applications like "Room Loop" to improve my software engineering skills, my main focus has been on creating intelligent systems. I developed "mycareer.ai," an AI-driven career counselling platform that uses NLP for personalised recommendations. Additionally, I made "Puch home," which allows smart home control using natural language commands. These projects illustrate my main interest: building practical, complete AI solutions that address real-world challenges. I am now excited to apply my blend of software engineering skills and specialised AI knowledge in a challenging role as an AI Engineer.</li>
+  </ul> 
 </details>
 
 ## 🧰 Languages and Tools
